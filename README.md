@@ -1,6 +1,8 @@
 # Simon_Game
 It is game created with  HTML | CSS | JAVASCRIPT .To play THE gAME, click on the color that lights up. After each successful round, the game will add another color to the sequence. Click the colors in the right order to pass LEVELS! 
 
+Link :- https://arun12311.github.io/Simon_Game/
+
 What You Learn From Playing Simon Says
 Simon Says is great for working out your ability to quickly learn and memorize new information. Improving your memory and recall is useful for all school subjects. See for yourself!
 
